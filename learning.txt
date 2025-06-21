@@ -1,1 +1,1 @@
-What I have learned how to use basic Git commands such as clone, add, commit, and push. This helps me manage my project versions effectively.
+What I have learned from this course how to use basic Git commands such as clone, add, commit, and push. This helps me manage my project versions effectively.
